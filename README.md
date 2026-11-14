@@ -14,3 +14,11 @@ Or else n=3*n+1 and then continued to be divided by 2
 In a conjecture the sequence continues when it reaches 1
 
 Collatz conjecture is not known and hence this python code is putting that to test
+
+There are basically two codes:
+
+One is programmed by myself
+
+Other is from the book
+
+Both the Programs as well as their respective Outputs are present
