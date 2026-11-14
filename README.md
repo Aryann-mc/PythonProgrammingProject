@@ -1,6 +1,10 @@
 # PythonProgrammingProject
 This is the repository of my Python project named Collatz Conjecture
 
+Name: Aryan MC
+
+USN: 25BTRGA011
+
 Collatz Conjecture is a sequence where the number is checked whether it is even or odd
 
 If it is even then it is divided by 2
